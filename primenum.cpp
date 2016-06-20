@@ -1,4 +1,6 @@
 // Written by Vikram Saraph
+// Fundamentals of Computing II
+// University of Notre Dame
 
 #include <iostream>
 #include <ctime>
