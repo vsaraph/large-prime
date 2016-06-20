@@ -1,3 +1,5 @@
+// Written by Vikram Saraph
+
 #include <iostream>
 #include <ctime>
 
