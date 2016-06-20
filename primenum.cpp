@@ -1,6 +1,6 @@
 // Written by Vikram Saraph
 // Fundamentals of Computing II
-// University of Notre Dame
+// Homework 2, Ironcoder
 
 #include <iostream>
 #include <ctime>
