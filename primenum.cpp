@@ -10,6 +10,8 @@
 
 using namespace std;
 
+some garbage
+
 // Avoiding function calls... they're expensive!
 // Cast to long int only when necessary.
 // long int arithmetic is much slower.
